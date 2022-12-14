@@ -1,0 +1,19 @@
+{
+  "name": "loginauth",
+  "version": "1.0.0",
+  "description": "Registro e inicio de sesion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xurriza/login_auth.git"
+  },
+  "author": "Xavier Urriza, Ivan, Jean Carlo Torraka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xurriza/login_auth/issues"
+  },
+  "homepage": "https://github.com/xurriza/login_auth#readme"
+}
